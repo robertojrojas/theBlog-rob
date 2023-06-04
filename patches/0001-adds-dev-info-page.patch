@@ -1,0 +1,21 @@
+From 20c896738c5c26c440808792ca65757ac9cfeb48 Mon Sep 17 00:00:00 2001
+From: Roberto J Rojas <robertojrojas@gmail.com>
+Date: Sun, 4 Jun 2023 13:54:44 -0400
+Subject: [PATCH] adds dev-info page
+
+Signed-off-by: Roberto J Rojas <robertojrojas@gmail.com>
+---
+ dev-info.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 dev-info.md
+
+diff --git a/dev-info.md b/dev-info.md
+new file mode 100644
+index 0000000..ee2eb33
+--- /dev/null
++++ b/dev-info.md
+@@ -0,0 +1 @@
++# Dev Information page
+-- 
+2.40.1
+
